@@ -1,4 +1,4 @@
-# MuriloCSilva-Responsive-card-hover-effect
+# Responsive Card Hover Effects
 
 
 ## Preview
